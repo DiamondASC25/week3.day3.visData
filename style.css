@@ -1,0 +1,81 @@
+#introDiv {
+    display: flex;
+    justify-content: center;
+} 
+
+#introduction {
+    font-size: 80px;
+    text-align: center;
+}
+
+#generateNextPersonButton {
+    display: flex;
+    justify-content: flex-end;
+}
+
+#buttonDiv {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 10px;
+    margin-right: 10px;
+    
+}
+
+#name {
+    color: black;
+    text-align: center;
+}
+
+#imageDiv {
+    display: flex;
+    justify-content: center;
+}
+
+#person_image {
+    width: 200px;
+    height: 200px;
+    
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 40px;
+    background-color: darkgray;
+    border: 5px solid white;
+    font-weight: bold;
+}
+
+.phoneNumber {
+    border: 5px solid black;
+}
+
+.email {
+    border: 5px solid black;
+}
+
+.address {
+    border: 5px solid black;
+}
+
+.password {
+    border: 5px solid black;
+}
+
+.info {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+
+
+
+
+
